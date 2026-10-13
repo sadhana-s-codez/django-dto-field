@@ -255,3 +255,4 @@ statement/branch coverage, plus Ruff, WPS, and strict mypy checks.
 ## License
 
 Available under the [MIT license](LICENSE).
+
